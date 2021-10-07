@@ -49,7 +49,7 @@ In this chart it seems as if c52 gives more vitamin C than c39 as evidence by th
 favstats(VitC~Cult,data=veggy)
 ```
 
-In this chart, the mean value of c39 is 51.5 which is smaller value than c52  
+In this chart, the mean value of c39 is 51.5 which is smaller value than c52 which is 64.4.  
 
 ## Inferential Results
 
